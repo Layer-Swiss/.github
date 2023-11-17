@@ -1,12 +1,11 @@
-## Hi there 👋
+# Layer Swiss
 
-<!--
+Layer Swiss is a consulting firm dedicated to enhancing decision-making through data-driven insights.
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At Layer Swiss, we believe in better decision-making powered by data-driven insights. We guide you purposefully through the complexity of your unique data landscape, collaboratively building a reliable foundation for data-driven decisions.
+
+## Support & Contact
+
+For any issues or inquiries, please reach out to our support team at contact@layer.swiss.
